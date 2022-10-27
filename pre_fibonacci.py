@@ -4,8 +4,8 @@ def fib(n):
     while b < n:
         a, b = b, a+b
         fib_numbers.append(a)
-        #print(a)
+        # print(a)
     print(fib_numbers)
 
-fib(1000)
 
+fib(1000)
