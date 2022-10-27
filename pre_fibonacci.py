@@ -7,6 +7,6 @@ def fib(n):
         #print(a)
     print(fib_numbers)
 
-fib(1000)
+fib(20000)
 
 
