@@ -1,4 +1,6 @@
+# pycharm specific
 .idea
 
+# jupiter notebook specific
 *.ipynb
-
+/notebooks
