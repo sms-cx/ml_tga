@@ -8,5 +8,3 @@ def fib(n):
     print(fib_numbers)
 
 fib(1000)
-
-
