@@ -1,6 +1,9 @@
 # pycharm specific
 .idea
 
+# course follow along
+pre_follow_along.py
+
 # jupiter notebook specific
 *.ipynb
 /notebooks
