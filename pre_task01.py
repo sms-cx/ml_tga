@@ -48,5 +48,8 @@ plt.scatter(df1['X1'], df1['Y1'])
 
 
 # create a subplot
-fig, ax = plt.subplots(1, 2, figsize=(10, 5))
+fig, ax = plt.subplots()
+
+ax.hist2d(df1['X1'], df1['Y1'])
+
 plt.show()
